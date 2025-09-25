@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DM5PH+Vqmw=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Compliment_Generator_App\\Compliment_Generator_App\\Compliment_Generator_App.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nunez\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\nunez\\.nuget\\packages\\system.data.oledb\\9.0.8\\system.data.oledb.9.0.8.nupkg.sha512",
+    "C:\\Users\\nunez\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\nunez\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.8\\system.diagnostics.performancecounter.9.0.8.nupkg.sha512",
+    "C:\\Users\\nunez\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

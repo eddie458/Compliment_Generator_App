@@ -1,0 +1,7 @@
+To Do List for Compliment Generator
+[1] Select a random compliment from a database. [DONE]
+[2] Add the option for the user to select from a specific compliment category. [Done]
+[3] Track which compliment was shown today so it doesn’t repeat until all have been used.
+[4] Let the user “bookmark” compliments they love into a separate file they can read later.
+[5] Ask the user their name, and insert it into the compliments (e.g., “You’re doing amazing today, María! 💕”). [Done]
+[6] Instead of console-only, try making a simple GUI with VB.NET’s Windows Forms — you can have a button (“Give me a compliment!”) and pretty text labels. [Done]
